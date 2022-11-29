@@ -11,7 +11,7 @@ Extract the file
 npm start
 ```
 
-Dashboard global : <a href= https://nirmalakadali.github.io/admin/dashboard> Click here to visit website </a>
+Dashboard global : <a href="https://Nirmalakadali.github.io/ESW_PROJECT"> Click here to visit website </a>
 --
 
 Thingspeak 
